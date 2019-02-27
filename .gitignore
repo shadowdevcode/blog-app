@@ -4,8 +4,6 @@
 *.pot
 *.pyc
 __pycache__/
-local_settings.py
-media/profile_pics/IMG_20170325_200349_242.jpg
 db.sqlite3
 
 # Ignore Post.json file
